@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T19:11:05.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Vfd_UB4GBvN_30WvEtMK" version="18.1.3" type="github"><diagram id="vwqoIQEuep60xFj0psgh" name="Page-1">5Zddb9owFIZ/TS5B+VgouySMUU0b3UjXar1BJnYTD8cGYzfAr68zbEJwujGpK2jcgPOe46/3cU5kJ+jnqyEH8+wLg4g4vgtXTvDB8X3PDbrqr1TWWyX0tZByDHVSJcR4g0xPrUoM0bKWKBgjAs/rYsIoRYmoaYBzVtTTHhmpzzoHKbKEOAHEVu8xFNlW7YZupV8jnGZmZs/VkRyYZC0sMwBZsScFAyfoc8bEtpWv+oiU5hlftv0+vhDdLYwjKo7pEH5NRvLpLhEzAWJ6M9lM7rotPcoTIFJveMhYqjbvu2MmBeJ67WJtDOFMUojKMT0niIoMCxTPQVJGC3UElJaJnOiwvUYzIeICrfYkveYhYjkSfK1SdPTKGKoPkLGzqGh4Rsv2SHS0BvQBSHcjVx6phrbpLyzzLctGvdjxO0RNHE2VYZ20bI0eoiESth4zqs6lrY8BbNTPDsDuhJ+MQGAROD+Tum9o0oPMFsvhrTtf/VhMof9tImna8GZ7V37b67Tddqm3WurnlsuRmvjQPLVnUXdoKTiboT4jjCuFMqoyo0dMyIEECE6pekyUk6p2BFHpIFbVtKcDOYawnKYRSQXNfR0qOwqmdoQ2lU4DlOA1oBRjnIbXQGaz+5+fBmC2gJ9/B8XzSipl3dWF4IyhWAQaOL0Ixf9zOXlTJnY9t5mYon0pTE79ntgVvoFJL6Kb6eUweR+elsm7I5h8n0oq5MUwOfn3JDyCSV/t7Sb+f5l4hxeEfwdFPVb3tV+xvVtvMHgG</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-12-30T02:09:11.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rKaDpGQQVJ7AQtfi9Mg9" version="22.1.16" type="github">
+  <diagram id="vwqoIQEuep60xFj0psgh" name="Page-1">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k_yiJJyBY-r9MNNjsbCX-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="343" y="59" width="477" height="477" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuhqsGT0pxYqbd2Q_ung-1" value="172.16.0.2 -- TruNas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwRig5HauhkWjJEakqdL-1" value="172.16.0.11 - Radarr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwRig5HauhkWjJEakqdL-2" value="172.16.0.11 - Sonarr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwRig5HauhkWjJEakqdL-3" value="172.16.0.11 - SABnzb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwRig5HauhkWjJEakqdL-4" value="172.16.0.11 - Ubuntu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwRig5HauhkWjJEakqdL-5" value="172.16.0.11 - CentOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k_yiJJyBY-r9MNNjsbCX-1" value="172.16.0.3 -- dev-01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="251" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
