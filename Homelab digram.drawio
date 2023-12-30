@@ -1,32 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T02:09:11.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rKaDpGQQVJ7AQtfi9Mg9" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T02:14:42.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h3f1UaisAIF8ix4IBHtw" version="22.1.16" type="github">
   <diagram id="vwqoIQEuep60xFj0psgh" name="Page-1">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k_yiJJyBY-r9MNNjsbCX-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="343" y="59" width="477" height="477" as="geometry" />
+        <mxCell id="k_yiJJyBY-r9MNNjsbCX-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="680" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="k_yiJJyBY-r9MNNjsbCX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="251" width="158" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ZuhqsGT0pxYqbd2Q_ung-1" value="172.16.0.2 -- TruNas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="70" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k_yiJJyBY-r9MNNjsbCX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="251" width="155" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="ZwRig5HauhkWjJEakqdL-1" value="172.16.0.11 - Radarr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="412.5" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZwRig5HauhkWjJEakqdL-2" value="172.16.0.11 - Sonarr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="412.5" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZwRig5HauhkWjJEakqdL-3" value="172.16.0.11 - SABnzb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="195" width="60" height="30" as="geometry" />
+          <mxGeometry x="412.5" y="405" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZwRig5HauhkWjJEakqdL-4" value="172.16.0.11 - Ubuntu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="k_yiJJyBY-r9MNNjsbCX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="158" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ZwRig5HauhkWjJEakqdL-5" value="172.16.0.11 - CentOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="551.5" y="260" width="128.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k_yiJJyBY-r9MNNjsbCX-1" value="172.16.0.3 -- dev-01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="251" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZwRig5HauhkWjJEakqdL-4" value="172.16.0.11 - Ubuntu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="260" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
