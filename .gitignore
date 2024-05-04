@@ -1,0 +1,8 @@
+*.pyc
+*.retry
+*.swo
+*.swp
+.DS_Store
+.idea
+vagrant*
+vault_password_file
